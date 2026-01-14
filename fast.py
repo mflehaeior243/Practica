@@ -1,3 +1,5 @@
 x= "hola aqui en python"
-
-print(x)
+a=0
+while a<5:
+    print(x)
+    a+=1
